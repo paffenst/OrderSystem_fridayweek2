@@ -1,3 +1,6 @@
+package repo;
+import model.Product;
+
 import java.util.*;
 
 public class ProductRepo {

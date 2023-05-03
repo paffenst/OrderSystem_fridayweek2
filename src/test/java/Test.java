@@ -1,4 +1,9 @@
+import model.Order;
+import model.Product;
 import org.junit.jupiter.api.Assertions;
+import repo.OrderRepo;
+import repo.ProductRepo;
+import service.ShopService;
 
 import java.util.NoSuchElementException;
 import java.util.List;

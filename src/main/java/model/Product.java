@@ -1,3 +1,4 @@
+package model;
 import java.util.Objects;
 
 public class Product {
@@ -46,5 +47,3 @@ public class Product {
         this.name = name;
     }
 }
-// record stellt der Compiler automatisch
-// die notwendigen Elemente zum Speichern von Daten(getter,toString(),equals()..etc)

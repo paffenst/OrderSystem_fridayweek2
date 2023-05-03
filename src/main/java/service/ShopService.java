@@ -1,3 +1,9 @@
+package service;
+import model.Order;
+import model.Product;
+import repo.ProductRepo;
+import repo.OrderRepo;
+
 import java.util.*;
 
 public class ShopService {
